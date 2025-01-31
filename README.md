@@ -1,4 +1,4 @@
-# X-O Game (One Player) with 3 Modes (Without GUI)
+# X-O Game (One Player) with 3 Modes (Without GUI) 
 
 The **X-O Game** (also known as Tic-Tac-Toe) is a classic two-player game where players take turns marking cells in a 3x3 grid. The goal is to form a line of three identical symbols (either X or O) horizontally, vertically, or diagonally.
 
